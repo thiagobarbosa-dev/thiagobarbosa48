@@ -7,7 +7,7 @@
 
 :books: I’m currently learning JavaScript.
 
-
+<!-- 
  <div>
   <a href="https://github.com/thiagobarbosa48">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagobarbosa48&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
@@ -23,7 +23,7 @@
   <img align="center" alt="thiagobarbosa-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="thiagobarbosa-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
+-->
 ##
 
 <div> 
